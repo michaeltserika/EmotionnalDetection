@@ -1,6 +1,6 @@
 # Emotionnal Detection
 
-Détection automatique des émotions humaines à partir de texte (ou image/audio selon ton projet) à l’aide de techniques d’intelligence artificielle et de machine learning.
+Détection automatique des émotions humaines à partir de texte ou image/audio à l’aide de techniques d’intelligence artificielle et de machine learning.
 
 ## 🔍 Objectif
 
